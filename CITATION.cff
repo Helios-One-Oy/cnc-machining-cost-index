@@ -15,6 +15,7 @@ authors:
     website: "https://quotedpart.com"
 version: "2026-11"
 date-released: "2026-11-06"
+doi: "10.5281/zenodo.24030047"
 license: CC-BY-4.0
 url: "https://quotedpart.com/cnc-machining-cost-index"
 repository: "https://github.com/Helios-One-Oy/cnc-machining-cost-index"

@@ -2,6 +2,8 @@
 
 Open data from [QuotedPart](https://quotedpart.com), the autonomous AI quoting software for CNC machining, sheet metal and job shops (made by Helios One Oy, Espoo, Finland).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24030047.svg)](https://doi.org/10.5281/zenodo.24030047)
+
 This repository mirrors two CSV files published on quotedpart.com, byte for byte as the site serves them:
 
 | File | What it is | Page (method, charts, notes) |
@@ -70,7 +72,7 @@ Both files are licensed under [Creative Commons Attribution 4.0 International (C
 
 > QuotedPart, "Best CNC quoting software (2026): 12 tools compared", November 6, 2026, quotedpart.com/best-cnc-quoting-software
 
-Machine-readable citation: [`CITATION.cff`](CITATION.cff).
+Zenodo archive (DOI): [10.5281/zenodo.24030047](https://doi.org/10.5281/zenodo.24030047). Machine-readable citation: [`CITATION.cff`](CITATION.cff).
 
 ## About QuotedPart
 
