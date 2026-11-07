@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below. Figures in the cost index are engine estimates at stated default rates, not survey data."
+type: dataset
+title: "QuotedPart CNC Machining Cost Index, November 2026"
+abstract: >-
+  26 representative CNC milling, turning, Swiss and sheet-metal parts with published
+  specs, plus two reference parts re-priced in 10 materials, priced at qty 1, 10, 100
+  and 1,000 by QuotedPart's pricing engine at stated US default rates and material
+  prices. Engine estimates, not survey data or industry averages. Recomputed monthly.
+  Also includes the CNC quoting software comparison of November 6, 2026.
+authors:
+  - name: "QuotedPart (Helios One Oy)"
+    city: Espoo
+    country: FI
+    website: "https://quotedpart.com"
+version: "2026-11"
+date-released: "2026-11-06"
+license: CC-BY-4.0
+url: "https://quotedpart.com/cnc-machining-cost-index"
+repository: "https://github.com/Helios-One-Oy/cnc-machining-cost-index"
+keywords:
+  - CNC machining
+  - machining cost
+  - job shop
+  - quoting
+  - manufacturing cost estimation
+  - sheet metal
